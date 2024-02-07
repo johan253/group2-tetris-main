@@ -1,6 +1,13 @@
 # TCSS305-Group-Project
 
-TCSS 305 Tetris
+Tetris Clone
+
+![Screenshot 2024-02-06 160555](https://github.com/johan253/tetris-clone/assets/131953029/0efd7440-c3ae-47b9-9f4f-03d89d69481d)
+
+![Screenshot 2024-02-06 160643](https://github.com/johan253/tetris-clone/assets/131953029/b64f2475-8832-4f08-95d7-dcda2aba04d7)
+
+![Screenshot 2024-02-06 160717](https://github.com/johan253/tetris-clone/assets/131953029/94a0ee9b-138d-494f-b832-211e4d762ffd)
+
 
 ## Autumn 2023, Group 2
 
